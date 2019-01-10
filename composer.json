@@ -1,0 +1,25 @@
+{
+    "name": "pollus/session-access-object",
+    "description": "PHP Object Oriented Session Wrapper",
+    "keywords": ["php", "session", "wrapper", "OOP"],
+    "license": "MIT",
+    "authors": 
+    [
+        {
+            "name": "Renan Cavalieri",
+            "email": "renan@tecdicas.com"
+        }
+    ],
+    "type": "library",
+    "require": 
+    {
+        "php": ">=7.2"
+    },
+    "autoload": 
+    {
+        "psr-4": 
+        {
+            "Pollus\\SessionWrapper\\": "src/"
+        }
+    }
+}
