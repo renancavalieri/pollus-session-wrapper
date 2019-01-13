@@ -1,5 +1,5 @@
 {
-    "name": "pollus/session-access-object",
+    "name": "pollus/session-wrapper",
     "description": "PHP Object Oriented Session Wrapper",
     "keywords": ["php", "session", "wrapper", "OOP"],
     "license": "MIT",
